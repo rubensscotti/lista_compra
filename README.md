@@ -1,9 +1,3 @@
-# front-end-exercicio-lista
-Base do exercício de lista de compras em React.js
+Após fazer um fork desse projeto e baixá-lo para sua máquina
 
-# após fazer um fork desse projeto e baixá-lo para sua máquina
-
-Rode `npm install` para instalar as dependencias e depois rode `npm run dev` para ligar o Vite e poder trabalhar em seu código ;)
-
-Caso faça esse trabalho em dupla, não se esqueça de anotar aqui no README.md ou em outro local o nome dos integrantes!
-# lista_compra
+Rode `npm install` para instalar as dependencias e depois rode `npm run dev` para ligar o Vite e poder trabalhar em seu código 
